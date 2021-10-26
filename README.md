@@ -1,3 +1,3 @@
 # WANG-DR001
 py01
-几个MPC小案例
+small cases of mpc and pid
